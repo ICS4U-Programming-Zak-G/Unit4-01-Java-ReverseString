@@ -1,0 +1,3 @@
+The reverse of "code" is "edoc".
+The reverse of "Zak" is "kaZ".
+The reverse of "Hello" is "olleH".
